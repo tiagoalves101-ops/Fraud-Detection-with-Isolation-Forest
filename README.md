@@ -48,3 +48,9 @@ Each record includes its predicted label and anomaly score.
 ```bash
 pip install pandas matplotlib scikit-learn
 python "Fraud Detection with Anomaly Analysis.py"
+
+---
+
+📂 [Download Project File](https://github.com/tiagoalves101-ops/Fraud_Detection_with_Anomaly_Analysis/blob/main/creditcards.csv)
+
+
