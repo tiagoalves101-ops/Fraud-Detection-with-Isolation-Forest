@@ -38,6 +38,12 @@ Each record includes its predicted label and anomaly score.
 
 ---
 
+## 📂 Dataset
+- **Full dataset:** `creditcards.zip` (stored with Git LFS)
+- **Sample preview:** `creditcards_sample.csv` (first 100 rows for quick inspection)
+
+---
+
 ## 🚀 How to Run
 ```bash
 pip install pandas matplotlib scikit-learn
