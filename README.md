@@ -31,6 +31,13 @@ The script generates a scatter plot where fraudulent transactions appear in diff
 
 ---
 
+## 📁 Output
+The script creates a file named **fraud_transactions.xlsx**  
+It contains only transactions flagged as frauds (`Anomaly = 1`).  
+Each record includes its predicted label and anomaly score.
+
+---
+
 ## 🚀 How to Run
 ```bash
 pip install pandas matplotlib scikit-learn
